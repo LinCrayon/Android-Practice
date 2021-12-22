@@ -1,0 +1,3 @@
+rootProject.name = "My Appcom"
+include ':app'
+include ':myapplication02'
