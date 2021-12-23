@@ -12,9 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcast" />
             <option value="$PROJECT_DIR$/clock" />
             <option value="$PROJECT_DIR$/clock01" />
             <option value="$PROJECT_DIR$/myapplication02" />
+            <option value="$PROJECT_DIR$/mytest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
