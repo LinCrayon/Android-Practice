@@ -1,3 +1,5 @@
 rootProject.name = "My Appcom"
 include ':app'
 include ':myapplication02'
+include ':clock'
+include ':clock01'
