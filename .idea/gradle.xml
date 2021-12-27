@@ -16,7 +16,11 @@
             <option value="$PROJECT_DIR$/clock" />
             <option value="$PROJECT_DIR$/clock01" />
             <option value="$PROJECT_DIR$/myapplication02" />
+            <option value="$PROJECT_DIR$/myaudio" />
+            <option value="$PROJECT_DIR$/myjavaio" />
             <option value="$PROJECT_DIR$/mytest" />
+            <option value="$PROJECT_DIR$/mytest01" />
+            <option value="$PROJECT_DIR$/mytest02" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
