@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".XinwenActivity3"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="2000dp"
+        android:layout_height="200dp"
+        android:src="@drawable/xw1"
+        android:id="@+id/swtu1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="当日，“相约北京”奥林匹克文化节暨第22届“相约北京”国际艺术节新闻发布会在北京举行。据介绍，本届艺术节将于2022年1月6日至2月18日举行，将统筹国内外奥运文化和传统艺术资源，运用多种高新技术及呈现方式，通过表演艺术、视觉艺术、电影展映、城市活动和庆典活动五大板块，营造喜迎冬奥的浓厚氛围。"
+        android:id="@+id/swzi1"
+        android:layout_below="@id/swtu1"/>
+
+</RelativeLayout>

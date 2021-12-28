@@ -20,8 +20,8 @@ public class MyView extends View {
        paint.setTextAlign(Paint.Align.LEFT);
        paint.setTextSize(64);
 
-       canvas.drawText("吃了吗",100,400,paint);
-       canvas.drawText("吃了",400,600,paint);
+       canvas.drawText("在很久很久以前，唐三藏为了在大唐弘扬佛教，习得大乘教法。",100,400,paint);
+       canvas.drawText("随后他便受到菩萨指点，携四位徒弟一同降妖除魔，求取真经。",400,600,paint);
 
     }
 }
